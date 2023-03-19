@@ -1,5 +1,5 @@
 # 💫 About Me:
-IT professional and PSM 1 with over 10 years of experience in software development, 3-tier web applications, reporting, architecting solutions and devops. Self-motivated, detail- oriented and ability to work in a rapidly changing environment with problem solving and learning mindset. 
+IT professional and PSM 1 with over 10 years of experience in software development, 3-tier web applications, reporting, architecting solutions and devops. Self-motivated, detail-oriented and ability to work in a rapidly changing environment with problem solving and learning mindset. 
 
 
 ## 🌐 Socials:
